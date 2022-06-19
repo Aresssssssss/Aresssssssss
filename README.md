@@ -20,7 +20,7 @@
 
 [vk]: https://vk.com/anohin1992
 [telegram]: https://t.me/dan_anohin
-[instagram]: https://www.instagram.com/dan_anox2
+[instagram]: https://www.instagram.com/dan_anox
 
 <!---
 Aresssssssss/Aresssssssss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
