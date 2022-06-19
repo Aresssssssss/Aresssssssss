@@ -1,7 +1,7 @@
 ### Hi there, I'm Danil Anokhin - aka @Aresssssssss 👋
 
 ### Connect with me:
-[<img align="left" alt="dan_anox | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][telegram]
+[<img align="left" alt="dan_anohin | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][telegram]
 
 
 <br />
@@ -15,7 +15,7 @@
 <br />
 <br />
 
-[telegram]: https://t.me/Dan_anox
+[telegram]: https://t.me/dan_anohin
 
 
 <!---
