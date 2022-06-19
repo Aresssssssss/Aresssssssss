@@ -15,7 +15,7 @@
 <br />
 <br />
 
-[telegram]: https://t.me/dan_anox
+[telegram]: https://t.me/Dan_anox
 
 
 <!---
